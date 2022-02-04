@@ -1,3 +1,5 @@
+// power of a double
+
 #include <iostream>
 #include <math.h>
 

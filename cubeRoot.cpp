@@ -1,3 +1,4 @@
+// cube root of a number
 #include <iostream>
 #include <cmath>
 using namespace std;

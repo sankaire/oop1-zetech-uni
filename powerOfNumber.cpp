@@ -1,3 +1,5 @@
+// power of the two numbers
+
 #include <iostream>
 #include <math.h>
 using namespace std;

@@ -1,9 +1,17 @@
+// sum and product of two numbers
+
 #include <iostream>
 using namespace std;
+/* multiple line */
+// single line comentss
 
 int main()
 {
     int a, b, c;
+    // const float pie = 3.142;
+
+    // float r = pie * a;
+    // cout << r << endl;
 
     cout << "Enter The First Number: ";
     cin >> a;
