@@ -7,8 +7,10 @@ int main()
 {
     int num;
 
-    cout << "Enter an Interger: ";
+    cout << "Enter a number: ";
     cin >> num;
 
-    cout << "Cube root: " << std::cbrt(num) << endl;
+    cout << "cuberoot is  : " << std::cbrt(num) << endl;
+
+    return 0;
 }
