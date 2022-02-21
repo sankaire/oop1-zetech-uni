@@ -12,7 +12,7 @@ int main()
     cin >> r;
 
     // logic
-    area = 4 * pie * r * r;
+    area = pie * r * r;
 
     cout << "area is: " << area << endl;
 
